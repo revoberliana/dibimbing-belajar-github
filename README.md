@@ -1,5 +1,5 @@
 # dibimbing-belajar-github
-assignment github dalam proses git pull dari lokal ke remote
+assignment github dalam proses git pull&push dari lokal ke remote
 penjelasan pertiap tahap : https://docs.google.com/document/d/1pC86RenNIpdtN02n2mylpXGJxNZISICv4pB2W_dG1pw/edit?tab=t.0
 
 1. Membuat 1 repository Github dengan nama dibimbing-belajar-github
